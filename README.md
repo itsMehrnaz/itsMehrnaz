@@ -1,13 +1,4 @@
 
-
-<!--
-**itsMehrnaz/itsMehrnaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-* * [Typing Speed Project in Python](GitHub-Link)
-
 # Hi, I'm Mehrnaz
 
 A passionate **Backend Developer** and **Cybersecurity Enthusiast**, skilled in PHP, Laravel, Python, and SQL.
@@ -38,6 +29,14 @@ I'm enjoying solving **CTF challenges** and exploring security concepts.
 
 [LinkedIn](www.linkedin.com/in/itsmemhrnz) | [Email](mehrnaz.jalalifar.cs@gmail.com)
 
+
+<!--
+**itsMehrnaz/itsMehrnaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+* * [Typing Speed Project in Python](GitHub-Link)
 
 
 
