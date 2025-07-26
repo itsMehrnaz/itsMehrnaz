@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mehrnaz
+# Hi, I'm Mehrnaz
 
 A passionate **Backend Developer** and **Cybersecurity Enthusiast**, skilled in PHP, Laravel, Python, and SQL.
 I'm enjoying solving **CTF challenges** and exploring security concepts.
