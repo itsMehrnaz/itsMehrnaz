@@ -28,7 +28,7 @@ I'm enjoying solving **CTF challenges** and exploring security concepts.
 
 ### 📫 Connect with Me
 
-[LinkedIn](www.linkedin.com/in/itsmemhrnz) | [Email](mehrnaz.jalalifar.cs@gmail.com)
+[LinkedIn](www.linkedin.com/in/itsmemhrnz) | [Email](mehrnaz.jalalifar.cs@gmail.com) | [Medium](https://medium.com/@itsmemehrnaz)
 
 
 <!--
