@@ -19,13 +19,6 @@ I'm enjoying solving **CTF challenges** and exploring security concepts.
 
 ---
 
-### 📊 GitHub Stats
-
-![Mehrnaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsMehrnaz\&show_icons=true\&theme=radical)
-
-
----
-
 ### 📫 Connect with Me
 
 [LinkedIn](www.linkedin.com/in/itsmemhrnz) | [Email](mehrnaz.jalalifar.cs@gmail.com) | [Medium](https://medium.com/@itsmemehrnaz)
