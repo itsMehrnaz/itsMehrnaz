@@ -21,6 +21,8 @@ I'm enjoying solving **CTF challenges** and exploring security concepts.
 
 ### 📊 GitHub Stats
 
+![Mehrnaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsMehrnaz\&show_icons=true\&theme=radical)
+
 
 ---
 
