@@ -13,15 +13,13 @@ I'm enjoying solving **CTF challenges** and exploring security concepts.
 
 ---
 
-### 🚀 Featured Projects
-
-* [E-commerce Website in PHP]([GitHub-Link](https://github.com/itsMehrnaz/myshop-l10))
-
----
-
 ### 📫 Connect with Me
 
 [LinkedIn](www.linkedin.com/in/itsmemhrnz) | [Email](mehrnaz.jalalifar.cs@gmail.com) | [Medium](https://medium.com/@itsmemehrnaz)
+
+---
+
+- 🔭 I’m currently working on Rust programing But Unfortunately i will be Study for my exams from aug1 6th till sep 14th
 
 
 <!--
