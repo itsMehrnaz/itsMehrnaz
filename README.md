@@ -4,9 +4,7 @@
 A passionate **Backend Developer** 
 ---
 
-### 🛠 Skills
-
-* PHP | Laravel | Python
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17526873.svg)](https://doi.org/10.5281/zenodo.17526873)
 ---
 
 ### 📫 Connect with Me
