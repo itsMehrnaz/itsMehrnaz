@@ -1,13 +1,11 @@
 
 # Hi, I'm Mehrnaz
 
+**Backend Developer** :)
 
-Interested to **CyberSecurity**
 
-A passionate **Backend Developer** 
----
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17526873.svg)](https://doi.org/10.5281/zenodo.17526873)
+Interested to **CyberSecurity** 
 ---
 
 ### 📫 Connect with Me
